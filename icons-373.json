@@ -1,0 +1,1498 @@
+{
+  "name": "我的图标库",
+  "description": "自己喜欢的 Loon 策略组图标：自有 Muse/LinkedIn/Pokémon + Qure Color All 310 张 + miniColor 60 张，重名 mini 版以 -mini 区分",
+  "icons": [
+    {
+      "name": "Muse",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Muse.png"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/linkedin.png"
+    },
+    {
+      "name": "Pokémon",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pok%C3%A9mon.png"
+    },
+    {
+      "name": "Frog.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Frog.png"
+    },
+    {
+      "name": "STARZ.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/STARZ.png"
+    },
+    {
+      "name": "AmyTelecom.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AmyTelecom.png"
+    },
+    {
+      "name": "Star_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Star_1.png"
+    },
+    {
+      "name": "Star+.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Star+.png"
+    },
+    {
+      "name": "Blackhole.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Blackhole.png"
+    },
+    {
+      "name": "Bamboo.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bamboo.png"
+    },
+    {
+      "name": "Cat.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cat.png"
+    },
+    {
+      "name": "Lambda.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Lambda.png"
+    },
+    {
+      "name": "Panda.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Panda.png"
+    },
+    {
+      "name": "SSL.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SSL.png"
+    },
+    {
+      "name": "5iTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/5iTV.png"
+    },
+    {
+      "name": "Nfcloud.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Nfcloud.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Catnet.png"
+    },
+    {
+      "name": "HC.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HC.png"
+    },
+    {
+      "name": "AbemaTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AbemaTV.png"
+    },
+    {
+      "name": "AdBlack.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AdBlack.png"
+    },
+    {
+      "name": "Advertising.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Advertising.png"
+    },
+    {
+      "name": "AdWhite.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AdWhite.png"
+    },
+    {
+      "name": "AfreecaTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AfreecaTV.png"
+    },
+    {
+      "name": "Africa_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Africa_Map.png"
+    },
+    {
+      "name": "AGA.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AGA.png"
+    },
+    {
+      "name": "AIA.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AIA.png"
+    },
+    {
+      "name": "Airport.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Airport.png"
+    },
+    {
+      "name": "Alibaba.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Alibaba.png"
+    },
+    {
+      "name": "All4.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/All4.png"
+    },
+    {
+      "name": "Amazon.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Amazon.png"
+    },
+    {
+      "name": "Amazon_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Amazon_1.png"
+    },
+    {
+      "name": "America_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/America_Map.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple.png"
+    },
+    {
+      "name": "Apple_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_1.png"
+    },
+    {
+      "name": "Apple_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_2.png"
+    },
+    {
+      "name": "Apple_Fitness+.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_Fitness+.png"
+    },
+    {
+      "name": "Apple_Fitness+_Letter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_Fitness+_Letter.png"
+    },
+    {
+      "name": "Apple_Fitness.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_Fitness.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_Music.png"
+    },
+    {
+      "name": "Apple_News.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_News.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_TV.png"
+    },
+    {
+      "name": "Apple_TV_Plus.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_TV_Plus.png"
+    },
+    {
+      "name": "Apple_Update.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple_Update.png"
+    },
+    {
+      "name": "App_Store.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/App_Store.png"
+    },
+    {
+      "name": "Area.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Area.png"
+    },
+    {
+      "name": "Asia_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Asia_Map.png"
+    },
+    {
+      "name": "AU.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AU.png"
+    },
+    {
+      "name": "Australia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Australia.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Auto.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Available.png"
+    },
+    {
+      "name": "Available_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Available_1.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Azure.png"
+    },
+    {
+      "name": "Back.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Back.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bahamut.png"
+    },
+    {
+      "name": "BBC_iPlayer.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BBC_iPlayer.png"
+    },
+    {
+      "name": "BBC_iPlayer_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BBC_iPlayer_1.png"
+    },
+    {
+      "name": "BBC_iPlayer_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BBC_iPlayer_2.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BGP.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/bilibili.png"
+    },
+    {
+      "name": "bilibili_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/bilibili_1.png"
+    },
+    {
+      "name": "bilibili_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/bilibili_2.png"
+    },
+    {
+      "name": "bilibili_3.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/bilibili_3.png"
+    },
+    {
+      "name": "bilibili_4.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/bilibili_4.png"
+    },
+    {
+      "name": "Blinkload.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Blinkload.png"
+    },
+    {
+      "name": "Blinkload_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Blinkload_1.png"
+    },
+    {
+      "name": "Bookpedia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bookpedia.png"
+    },
+    {
+      "name": "BosLife.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BosLife.png"
+    },
+    {
+      "name": "BosLife_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BosLife_1.png"
+    },
+    {
+      "name": "Bot.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bot.png"
+    },
+    {
+      "name": "BR.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/BR.png"
+    },
+    {
+      "name": "Brazil.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Brazil.png"
+    },
+    {
+      "name": "Bypass.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bypass.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/CA.png"
+    },
+    {
+      "name": "Canada.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Canada.png"
+    },
+    {
+      "name": "CC.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/CC.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cellular.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/China.png"
+    },
+    {
+      "name": "China_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/China_Map.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cloudflare.png"
+    },
+    {
+      "name": "Clubhouse.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Clubhouse.png"
+    },
+    {
+      "name": "Clubhouse_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Clubhouse_1.png"
+    },
+    {
+      "name": "Clubhouse_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Clubhouse_2.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/CN.png"
+    },
+    {
+      "name": "Cryptocurrency.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cryptocurrency.png"
+    },
+    {
+      "name": "Cryptocurrency_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cryptocurrency_1.png"
+    },
+    {
+      "name": "Cryptocurrency_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cryptocurrency_2.png"
+    },
+    {
+      "name": "Cryptocurrency_3.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cryptocurrency_3.png"
+    },
+    {
+      "name": "Cydia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Cydia.png"
+    },
+    {
+      "name": "Daily.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Daily.png"
+    },
+    {
+      "name": "DAZN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DAZN.png"
+    },
+    {
+      "name": "DAZN_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DAZN_1.png"
+    },
+    {
+      "name": "DAZN_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DAZN_2.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DE.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/deezer.png"
+    },
+    {
+      "name": "deezer_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/deezer_1.png"
+    },
+    {
+      "name": "deezer_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/deezer_2.png"
+    },
+    {
+      "name": "Dinosaur.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Dinosaur.png"
+    },
+    {
+      "name": "Direct.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Direct.png"
+    },
+    {
+      "name": "Discord.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Discord.png"
+    },
+    {
+      "name": "discovery+.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/discovery+.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Disney+.png"
+    },
+    {
+      "name": "Disney+_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Disney+_1.png"
+    },
+    {
+      "name": "Disney+_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Disney+_2.png"
+    },
+    {
+      "name": "Disney.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Disney.png"
+    },
+    {
+      "name": "Domestic.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Domestic.png"
+    },
+    {
+      "name": "DomesticMedia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DomesticMedia.png"
+    },
+    {
+      "name": "Download.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Download.png"
+    },
+    {
+      "name": "Drill.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Drill.png"
+    },
+    {
+      "name": "EG.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/EG.png"
+    },
+    {
+      "name": "Egypt.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Egypt.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Emby.png"
+    },
+    {
+      "name": "encoreTVB.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/encoreTVB.png"
+    },
+    {
+      "name": "ESPN+.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ESPN+.png"
+    },
+    {
+      "name": "ESPN+_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ESPN+_1.png"
+    },
+    {
+      "name": "ESPN+_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ESPN+_2.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/EU.png"
+    },
+    {
+      "name": "European_Union.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/European_Union.png"
+    },
+    {
+      "name": "Europe_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Europe_Map.png"
+    },
+    {
+      "name": "Facebook.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Facebook.png"
+    },
+    {
+      "name": "FI.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/FI.png"
+    },
+    {
+      "name": "Filter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Filter.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Final.png"
+    },
+    {
+      "name": "Final_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Final_1.png"
+    },
+    {
+      "name": "Find_My.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Find_My.png"
+    },
+    {
+      "name": "Finland.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Finland.png"
+    },
+    {
+      "name": "Flamingo.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Flamingo.png"
+    },
+    {
+      "name": "ForeignMedia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ForeignMedia.png"
+    },
+    {
+      "name": "FOX.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/FOX.png"
+    },
+    {
+      "name": "FR.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/FR.png"
+    },
+    {
+      "name": "France.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/France.png"
+    },
+    {
+      "name": "friDay.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/friDay.png"
+    },
+    {
+      "name": "fuboTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/fuboTV.png"
+    },
+    {
+      "name": "Game.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Game.png"
+    },
+    {
+      "name": "Germany.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Germany.png"
+    },
+    {
+      "name": "GIA.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/GIA.png"
+    },
+    {
+      "name": "GitHub.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/GitHub.png"
+    },
+    {
+      "name": "GitHub_Letter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/GitHub_Letter.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Global.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Google.png"
+    },
+    {
+      "name": "Google_Drive.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Google_Drive.png"
+    },
+    {
+      "name": "Google_Opinion_Rewards.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Google_Opinion_Rewards.png"
+    },
+    {
+      "name": "Google_Search.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Google_Search.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO.png"
+    },
+    {
+      "name": "HBO_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_1.png"
+    },
+    {
+      "name": "HBO_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_2.png"
+    },
+    {
+      "name": "HBO_GO.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_GO.png"
+    },
+    {
+      "name": "HBO_GO_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_GO_1.png"
+    },
+    {
+      "name": "HBO_GO_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_GO_2.png"
+    },
+    {
+      "name": "HBO_Max.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO_Max.png"
+    },
+    {
+      "name": "Heart.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Heart.png"
+    },
+    {
+      "name": "Hijacking.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Hijacking.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HK.png"
+    },
+    {
+      "name": "HKMTMedia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HKMTMedia.png"
+    },
+    {
+      "name": "Hong_Kong.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Hong_Kong.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Hulu.png"
+    },
+    {
+      "name": "Hulu_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Hulu_1.png"
+    },
+    {
+      "name": "iCloud.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/iCloud.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/IEPL.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/IN.png"
+    },
+    {
+      "name": "India.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/India.png"
+    },
+    {
+      "name": "Infuse.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Infuse.png"
+    },
+    {
+      "name": "Infuse_7.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Infuse_7.png"
+    },
+    {
+      "name": "Ingress.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Ingress.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Instagram.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/IPLC.png"
+    },
+    {
+      "name": "iQIYI&bilibili.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/iQIYI&bilibili.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/iQIYI.png"
+    },
+    {
+      "name": "ITV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ITV.png"
+    },
+    {
+      "name": "ITV_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ITV_1.png"
+    },
+    {
+      "name": "ITV_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ITV_2.png"
+    },
+    {
+      "name": "Japan.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Japan.png"
+    },
+    {
+      "name": "JOOX.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/JOOX.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/JP.png"
+    },
+    {
+      "name": "KKBOX.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/KKBOX.png"
+    },
+    {
+      "name": "KKTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/KKTV.png"
+    },
+    {
+      "name": "Korea.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Korea.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/KR.png"
+    },
+    {
+      "name": "Lab.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Lab.png"
+    },
+    {
+      "name": "League_of_Legends.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/League_of_Legends.png"
+    },
+    {
+      "name": "Line.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Line.png"
+    },
+    {
+      "name": "LineTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/LineTV.png"
+    },
+    {
+      "name": "LiTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/LiTV.png"
+    },
+    {
+      "name": "Lock.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Lock.png"
+    },
+    {
+      "name": "LOL.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/LOL.png"
+    },
+    {
+      "name": "Loop.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Loop.png"
+    },
+    {
+      "name": "Luffy.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Luffy.png"
+    },
+    {
+      "name": "Macao.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Macao.png"
+    },
+    {
+      "name": "Magic.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Magic.png"
+    },
+    {
+      "name": "Mail.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Mail.png"
+    },
+    {
+      "name": "Malaysia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Malaysia.png"
+    },
+    {
+      "name": "Media.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Media.png"
+    },
+    {
+      "name": "Mickey.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Mickey.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Microsoft.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/MO.png"
+    },
+    {
+      "name": "Mouse.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Mouse.png"
+    },
+    {
+      "name": "Music_Enhance.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Music_Enhance.png"
+    },
+    {
+      "name": "MY.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/MY.png"
+    },
+    {
+      "name": "My5.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/My5.png"
+    },
+    {
+      "name": "myTV_SUPER.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/myTV_SUPER.png"
+    },
+    {
+      "name": "NBA.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/NBA.png"
+    },
+    {
+      "name": "NBC.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/NBC.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netease_Music.png"
+    },
+    {
+      "name": "Netease_Music_Unlock.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netflix.png"
+    },
+    {
+      "name": "Netflix_Letter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netflix_Letter.png"
+    },
+    {
+      "name": "niconico.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/niconico.png"
+    },
+    {
+      "name": "niconico_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/niconico_1.png"
+    },
+    {
+      "name": "niconico_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/niconico_2.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Notion.png"
+    },
+    {
+      "name": "nowe.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/nowe.png"
+    },
+    {
+      "name": "Null_Nation.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Null_Nation.png"
+    },
+    {
+      "name": "Oceania_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Oceania_Map.png"
+    },
+    {
+      "name": "OneDrive.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/OneDrive.png"
+    },
+    {
+      "name": "Ox.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Ox.png"
+    },
+    {
+      "name": "Pandora.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pandora.png"
+    },
+    {
+      "name": "Paramount.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Paramount.png"
+    },
+    {
+      "name": "PayPal.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PayPal.png"
+    },
+    {
+      "name": "PBS.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PBS.png"
+    },
+    {
+      "name": "Peacock.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Peacock.png"
+    },
+    {
+      "name": "Peacock_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Peacock_1.png"
+    },
+    {
+      "name": "Peacock_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Peacock_2.png"
+    },
+    {
+      "name": "PH.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PH.png"
+    },
+    {
+      "name": "Philippines.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Philippines.png"
+    },
+    {
+      "name": "Pig.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pig.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pornhub.png"
+    },
+    {
+      "name": "Pornhub_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pornhub_1.png"
+    },
+    {
+      "name": "Pornhub_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pornhub_2.png"
+    },
+    {
+      "name": "PostBox.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PostBox.png"
+    },
+    {
+      "name": "PostBox_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PostBox_1.png"
+    },
+    {
+      "name": "Prime_Video.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Prime_Video.png"
+    },
+    {
+      "name": "Prime_Video_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Prime_Video_1.png"
+    },
+    {
+      "name": "Prime_Video_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Prime_Video_2.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Proxy.png"
+    },
+    {
+      "name": "Puzzle.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Puzzle.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/QQ.png"
+    },
+    {
+      "name": "Quantumult_X.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Quantumult_X.png"
+    },
+    {
+      "name": "Qure.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Qure.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Reject.png"
+    },
+    {
+      "name": "Rocket.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Rocket.png"
+    },
+    {
+      "name": "Round_Robin.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Round_Robin.png"
+    },
+    {
+      "name": "Round_Robin_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Round_Robin_1.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/RU.png"
+    },
+    {
+      "name": "Russia.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Russia.png"
+    },
+    {
+      "name": "Scholar.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Scholar.png"
+    },
+    {
+      "name": "Server.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Server.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SG.png"
+    },
+    {
+      "name": "Singapore.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Singapore.png"
+    },
+    {
+      "name": "Siri.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Siri.png"
+    },
+    {
+      "name": "Sling_TV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Sling_TV.png"
+    },
+    {
+      "name": "Spark.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Spark.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Spotify.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SSID.png"
+    },
+    {
+      "name": "SSID_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SSID_1.png"
+    },
+    {
+      "name": "Stack.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Stack.png"
+    },
+    {
+      "name": "Star.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Star.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Static.png"
+    },
+    {
+      "name": "Static_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Static_1.png"
+    },
+    {
+      "name": "Steam.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Steam.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Streaming.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/StreamingSE.png"
+    },
+    {
+      "name": "TAG.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TAG.png"
+    },
+    {
+      "name": "Taiwan.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Taiwan.png"
+    },
+    {
+      "name": "Taobao.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Taobao.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Telegram.png"
+    },
+    {
+      "name": "Telegram_X.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Telegram_X.png"
+    },
+    {
+      "name": "TestFlight.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TestFlight.png"
+    },
+    {
+      "name": "TestFlight_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TestFlight_1.png"
+    },
+    {
+      "name": "TestFlight_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TestFlight_2.png"
+    },
+    {
+      "name": "TH.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TH.png"
+    },
+    {
+      "name": "Thailand.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Thailand.png"
+    },
+    {
+      "name": "TIDAL.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TIDAL.png"
+    },
+    {
+      "name": "TIDAL_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TIDAL_1.png"
+    },
+    {
+      "name": "TIDAL_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TIDAL_2.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TikTok.png"
+    },
+    {
+      "name": "TikTok_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TikTok_1.png"
+    },
+    {
+      "name": "TikTok_2.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TikTok_2.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TR.png"
+    },
+    {
+      "name": "Tubi.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Tubi.png"
+    },
+    {
+      "name": "Turkey.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Turkey.png"
+    },
+    {
+      "name": "TVB.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TVB.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TW.png"
+    },
+    {
+      "name": "Twitch.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Twitch.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Twitter.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/UK.png"
+    },
+    {
+      "name": "ULB.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ULB.png"
+    },
+    {
+      "name": "ULB_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ULB_1.png"
+    },
+    {
+      "name": "UN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/UN.png"
+    },
+    {
+      "name": "United_Kingdom.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/United_Kingdom.png"
+    },
+    {
+      "name": "United_Nations.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/United_Nations.png"
+    },
+    {
+      "name": "United_States.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/United_States.png"
+    },
+    {
+      "name": "United_States_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/United_States_Map.png"
+    },
+    {
+      "name": "Unlock.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Unlock.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/US.png"
+    },
+    {
+      "name": "Vimeo.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Vimeo.png"
+    },
+    {
+      "name": "VIP.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/VIP.png"
+    },
+    {
+      "name": "Viu.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Viu.png"
+    },
+    {
+      "name": "ViuTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/ViuTV.png"
+    },
+    {
+      "name": "Want_Want.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Want_Want.png"
+    },
+    {
+      "name": "Want_Want_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Want_Want_1.png"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/WeChat.png"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/WeTV.png"
+    },
+    {
+      "name": "WeTV_Letter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/WeTV_Letter.png"
+    },
+    {
+      "name": "WiFi.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/WiFi.png"
+    },
+    {
+      "name": "Windows.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Windows.png"
+    },
+    {
+      "name": "Windows_11.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Windows_11.png"
+    },
+    {
+      "name": "World_Map.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/World_Map.png"
+    },
+    {
+      "name": "Yahoo.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Yahoo.png"
+    },
+    {
+      "name": "Yahoo_1.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Yahoo_1.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/YouTube.png"
+    },
+    {
+      "name": "YouTube_Letter.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/YouTube_Letter.png"
+    },
+    {
+      "name": "YouTube_Music.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/YouTube_Music.png"
+    },
+    {
+      "name": "Global-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Global-mini.png"
+    },
+    {
+      "name": "China-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/China-mini.png"
+    },
+    {
+      "name": "Streaming-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Streaming-mini.png"
+    },
+    {
+      "name": "StreamingSE-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/StreamingSE-mini.png"
+    },
+    {
+      "name": "StreamingCN-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/StreamingCN-mini.png"
+    },
+    {
+      "name": "Static-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Static-mini.png"
+    },
+    {
+      "name": "Urltest.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Urltest.png"
+    },
+    {
+      "name": "Available-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Available-mini.png"
+    },
+    {
+      "name": "Roundrobin.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Roundrobin.png"
+    },
+    {
+      "name": "SSID-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SSID-mini.png"
+    },
+    {
+      "name": "Telegram-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Telegram-mini.png"
+    },
+    {
+      "name": "Instagram-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Instagram-mini.png"
+    },
+    {
+      "name": "Speedtest-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Speedtest-mini.png"
+    },
+    {
+      "name": "Adblock.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Adblock.png"
+    },
+    {
+      "name": "Final-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Final-mini.png"
+    },
+    {
+      "name": "Google-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Google-mini.png"
+    },
+    {
+      "name": "Apple-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Apple-mini.png"
+    },
+    {
+      "name": "Microsoft-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Microsoft-mini.png"
+    },
+    {
+      "name": "Twitter-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Twitter-mini.png"
+    },
+    {
+      "name": "Paypal.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Paypal.png"
+    },
+    {
+      "name": "GoogleDrive.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/GoogleDrive.png"
+    },
+    {
+      "name": "AppleTV.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AppleTV.png"
+    },
+    {
+      "name": "Discovery.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Discovery.png"
+    },
+    {
+      "name": "Clubhouse-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Clubhouse-mini.png"
+    },
+    {
+      "name": "Netease.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netease.png"
+    },
+    {
+      "name": "YouTube-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/YouTube-mini.png"
+    },
+    {
+      "name": "Netflix-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Netflix-mini.png"
+    },
+    {
+      "name": "Spotify-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Spotify-mini.png"
+    },
+    {
+      "name": "Emby-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Emby-mini.png"
+    },
+    {
+      "name": "PLUS.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PLUS.png"
+    },
+    {
+      "name": "TikTok-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TikTok-mini.png"
+    },
+    {
+      "name": "Bahamut-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bahamut-mini.png"
+    },
+    {
+      "name": "Pornhub-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pornhub-mini.png"
+    },
+    {
+      "name": "Bili.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Bili.png"
+    },
+    {
+      "name": "DisneyPlus.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DisneyPlus.png"
+    },
+    {
+      "name": "HBO-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HBO-mini.png"
+    },
+    {
+      "name": "Hulu-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Hulu-mini.png"
+    },
+    {
+      "name": "PrimeVideo.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/PrimeVideo.png"
+    },
+    {
+      "name": "LineTV-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/LineTV-mini.png"
+    },
+    {
+      "name": "Paramount-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Paramount-mini.png"
+    },
+    {
+      "name": "HK-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/HK-mini.png"
+    },
+    {
+      "name": "MO-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/MO-mini.png"
+    },
+    {
+      "name": "TW-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TW-mini.png"
+    },
+    {
+      "name": "CN-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/CN-mini.png"
+    },
+    {
+      "name": "GAME.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/GAME.png"
+    },
+    {
+      "name": "JP-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/JP-mini.png"
+    },
+    {
+      "name": "KR-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/KR-mini.png"
+    },
+    {
+      "name": "SG-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/SG-mini.png"
+    },
+    {
+      "name": "VN.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/VN.png"
+    },
+    {
+      "name": "TH-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TH-mini.png"
+    },
+    {
+      "name": "RU-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/RU-mini.png"
+    },
+    {
+      "name": "UK-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/UK-mini.png"
+    },
+    {
+      "name": "FR-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/FR-mini.png"
+    },
+    {
+      "name": "DE-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/DE-mini.png"
+    },
+    {
+      "name": "TR-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/TR-mini.png"
+    },
+    {
+      "name": "US-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/US-mini.png"
+    },
+    {
+      "name": "CA-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/CA-mini.png"
+    },
+    {
+      "name": "AU-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/AU-mini.png"
+    },
+    {
+      "name": "XD.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/XD.png"
+    },
+    {
+      "name": "UN-mini.png",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/UN-mini.png"
+    }
+  ]
+}
