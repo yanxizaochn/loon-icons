@@ -1,1 +1,14 @@
-{"description":"自己喜欢的 Loon 策略组图标，新增图标时在这里加一行即可","icons":[{"name":"Muse","url":"https://raw.githubusercontent.com/yanxizaochn/loon-icons/main/Muse.png"},{"name":"LinkedIn","url":"https://raw.githubusercontent.com/yanxizaochn/loon-icons/main/linkedin.png"}],"name":"我的图标库"}
+{
+  "name": "我的图标库",
+  "description": "自己喜欢的 Loon 策略组图标，新增图标时在这里加一行即可",
+  "icons": [
+    {
+      "name": "Muse",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Muse.png"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/linkedin.png"
+    }
+  ]
+}
