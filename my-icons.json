@@ -1,6 +1,6 @@
 {
   "name": "我的图标库",
-  "description": "自己喜欢的 Loon 策略组图标：自有 Muse/LinkedIn + Qure Color All 310 张 + miniColor 60 张，重名 mini 版以 -mini 区分",
+  "description": "自己喜欢的 Loon 策略组图标：自有 Muse/LinkedIn/Pokémon + Qure Color All 310 张 + miniColor 60 张，重名 mini 版以 -mini 区分",
   "icons": [
     {
       "name": "Muse",
@@ -9,6 +9,10 @@
     {
       "name": "LinkedIn",
       "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/linkedin.png"
+    },
+    {
+      "name": "Pokémon",
+      "url": "https://cdn.jsdelivr.net/gh/yanxizaochn/loon-icons@main/Pok%C3%A9mon.png"
     },
     {
       "name": "Frog.png",
